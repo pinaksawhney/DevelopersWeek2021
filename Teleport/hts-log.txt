@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Thu, 21 Jan 2021 19:13:38 at https://www.usegreenlight.com/
+(winhttrack https://www.usegreenlight.com/ -O "/Users/pinaksawhney/websites/Teleport" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:13:40	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.usegreenlight.com/robots.txt (from primary/primary)
+19:13:42	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.usegreenlight.com/terms-and-conditions (from https://www.usegreenlight.com/)
+19:13:42	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.usegreenlight.com/privacy-policy (from https://www.usegreenlight.com/)
+19:13:43	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.usegreenlight.com/terms-and-conditions (from https://www.usegreenlight.com/)
+19:13:43	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.usegreenlight.com/privacy-policy (from https://www.usegreenlight.com/)
+19:13:44	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.usegreenlight.com/terms-and-conditions (from https://www.usegreenlight.com/)
+19:13:44	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.usegreenlight.com/privacy-policy (from https://www.usegreenlight.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 8 links scanned, 1 files written (152111 bytes overall) [21004 bytes received at 3500 bytes/sec], 152111 bytes transferred using HTTP compression in 1 files, ratio 11%, 4.0 requests per connection
+(3 errors, 4 warnings, 0 messages)
