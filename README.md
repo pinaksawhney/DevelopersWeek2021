@@ -1,3 +1,3 @@
 ### Hosting Website Locally
 
-python -m SimpleHTTPServer
+> python -m SimpleHTTPServer
