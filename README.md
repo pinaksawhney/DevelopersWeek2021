@@ -1,5 +1,3 @@
-# Developer's Week 2021 
-
-To host the website locally
+### Hosting Website Locally
 
 python -m SimpleHTTPServer
