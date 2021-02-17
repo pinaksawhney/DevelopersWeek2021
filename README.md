@@ -1,6 +1,6 @@
-### Hosting Website Locally
+## Hosting Website Locally
 
-Steps
+### Steps
 > python -m SimpleHTTPServer
 
 > http://localhost:8000/teleport/
