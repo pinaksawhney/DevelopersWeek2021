@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-pingchat.in	TRUE	/	FALSE	1999999999	connect.sid	s%3AbnmZGi4pi71ZW2tPGtfsiFuCIYppzFpW.hAI66tTsr6wWErbq89ElNH%2Fse6kRjm%2FXCbfLHhK%2B9mM
-.pingchat.in	TRUE	/	FALSE	1999999999	__cfduid	d20f2601fa9edbc5a22776fcefae2a0001613118644
-pingchat.in	TRUE	/	FALSE	1999999999	SameSite	Lax
-
